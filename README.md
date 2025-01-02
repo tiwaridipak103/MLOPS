@@ -1,1 +1,1 @@
-# MLOPS
+# This is simple app
